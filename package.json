@@ -1,0 +1,9 @@
+{
+  "name": "SCSS",
+  "scripts": {
+	"scss": "node-sass input -o output"
+  },	
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
